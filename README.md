@@ -1,4 +1,4 @@
-<h1 align="center">Tanongsak Anurak<h1>
+<h1 align="center">Tanongsak Anurak</h1>
 
 <p align="center">Software Engineer | FullStack Developer</p>
 
@@ -27,7 +27,11 @@ add later :(
 
 ### GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtanong&show_icons=true&theme=dark)
+<div align="center">
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtanong&show_icons=true&theme=dark)
+
+</div>
 
 ### How to Reach Me
 
