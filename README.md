@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
    <h1>Tanongsak Anurak</h1>
    <p>Software Engineer | FullStack Developer</p>
    <a href="https://iamtanong.vercel.app">My Profile Site</a>
