@@ -1,17 +1,17 @@
-<h1 align="center">Tanongsak Anurak</h1>
-
-<p align="center">Software Engineer | FullStack Developer</p>
-<center><a href="https://iamtanong.vercel.app">My Profile Site</a></center>
-<br>
+<div style="text-align:center">
+   <h1>Tanongsak Anurak</h1>
+   <p>Software Engineer | FullStack Developer</p>
+   <a href="https://iamtanong.vercel.app">My Profile Site</a>
+</div>
 
 I'm a passionate software developer with a knack for building efficient and scalable software solutions.
 
 ### Technologies & Tools
 
 - **Languages:** Go, Javascript, Typescript, Rust, Python
-- **Frontend:** Next.js, TailwindCSS, MaterialUI
-- **Backend:** Node.js, Actix, FasiAPI
-- **Database:** PostgreSQL, MongoDB
+- **Frontend:** Next.js, TailwindCSS, MaterialUI, Mantine
+- **Backend:** Node.js, Actix, FastAPI
+- **Database:** PostgreSQL, MongoDB, DynamoDB, Redis
 - **Tools:** Git, Docker, AWS
 
 ### Featured Projects
@@ -39,11 +39,8 @@ add later :(
 
 <!-- - LinkedIn: [Your LinkedIn Profile] -->
 
-- Email: tanongsak5913@gmail.com
-
-other options later :(
-
-<!-- - Portfolio: [Your Website] -->
+- **Email:** tanongsak.anurak@gmail.com
+- **My Site:** https://iamtanong.vercel.app
 
 ---
 
